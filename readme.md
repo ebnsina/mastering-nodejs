@@ -11,7 +11,6 @@
 - Talk to database
 - Middlewares
 - MVC
-- 
 
 ### Tools
 
